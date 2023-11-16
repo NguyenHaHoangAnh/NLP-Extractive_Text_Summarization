@@ -1,0 +1,1406 @@
+---- Average score between human summary and our summary: 
+rouge1: precision = 0.53142, recall = 0.90292, fmeasure = 0.65066
+rouge2: precision = 0.37585, recall = 0.64446, fmeasure = 0.46167
+rougeL: precision = 0.32808, recall = 0.56379, fmeasure = 0.40312
+
+-----------------------------------------------------------------------------------
+cluster 1: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.71562, recall = 0.89504, fmeasure = 0.79534
+rouge2: precision = 0.52103, recall = 0.65205, fmeasure = 0.57922
+rougeL: precision = 0.54312, recall = 0.6793, fmeasure = 0.60363
+
+
+cluster 2: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.66154, recall = 0.95556, fmeasure = 0.78182
+rouge2: precision = 0.50096, recall = 0.72423, fmeasure = 0.59226
+rougeL: precision = 0.38654, recall = 0.55833, fmeasure = 0.45682
+
+
+cluster 3: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.65966, recall = 0.9127, fmeasure = 0.76582
+rouge2: precision = 0.37739, recall = 0.52255, fmeasure = 0.43826
+rougeL: precision = 0.3174, recall = 0.43915, fmeasure = 0.36848
+
+
+cluster 4: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70098, recall = 0.88545, fmeasure = 0.78249
+rouge2: precision = 0.50123, recall = 0.63354, fmeasure = 0.55967
+rougeL: precision = 0.44853, recall = 0.56656, fmeasure = 0.50068
+
+
+cluster 5: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.83402, recall = 0.74444, fmeasure = 0.78669
+rouge2: precision = 0.53333, recall = 0.47584, fmeasure = 0.50295
+rougeL: precision = 0.43983, recall = 0.39259, fmeasure = 0.41487
+
+
+cluster 6: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53521, recall = 0.91018, fmeasure = 0.67406
+rouge2: precision = 0.35336, recall = 0.60241, fmeasure = 0.44543
+rougeL: precision = 0.34859, recall = 0.59281, fmeasure = 0.43902
+
+
+cluster 7: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.44586, recall = 0.93333, fmeasure = 0.60345
+rouge2: precision = 0.33812, recall = 0.70903, fmeasure = 0.45788
+rougeL: precision = 0.23408, recall = 0.49, fmeasure = 0.31681
+
+
+cluster 8: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53611, recall = 0.86937, fmeasure = 0.66323
+rouge2: precision = 0.31198, recall = 0.50679, fmeasure = 0.38621
+rougeL: precision = 0.32778, recall = 0.53153, fmeasure = 0.4055
+
+
+cluster 9: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70455, recall = 0.87187, fmeasure = 0.77933
+rouge2: precision = 0.43038, recall = 0.53292, fmeasure = 0.47619
+rougeL: precision = 0.44192, recall = 0.54688, fmeasure = 0.48883
+
+
+cluster 10: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.65202, recall = 0.94655, fmeasure = 0.77215
+rouge2: precision = 0.53508, recall = 0.7772, fmeasure = 0.6338
+rougeL: precision = 0.34798, recall = 0.50517, fmeasure = 0.4121
+
+
+cluster 11: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56667, recall = 0.89904, fmeasure = 0.69517
+rouge2: precision = 0.43161, recall = 0.68599, fmeasure = 0.52985
+rougeL: precision = 0.2697, recall = 0.42788, fmeasure = 0.33086
+
+
+cluster 12: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.34688, recall = 0.87075, fmeasure = 0.49612
+rouge2: precision = 0.16304, recall = 0.41096, fmeasure = 0.23346
+rougeL: precision = 0.20596, recall = 0.51701, fmeasure = 0.29457
+
+
+cluster 13: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.80103, recall = 0.74699, fmeasure = 0.77307
+rouge2: precision = 0.54145, recall = 0.50483, fmeasure = 0.5225
+rougeL: precision = 0.36434, recall = 0.33976, fmeasure = 0.35162
+
+
+cluster 14: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.90231, recall = 0.92857, fmeasure = 0.91525
+rouge2: precision = 0.81443, recall = 0.8382, fmeasure = 0.82614
+rougeL: precision = 0.69152, recall = 0.71164, fmeasure = 0.70143
+
+
+cluster 15: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.7, recall = 0.86897, fmeasure = 0.77538
+rouge2: precision = 0.39703, recall = 0.49309, fmeasure = 0.43988
+rougeL: precision = 0.31296, recall = 0.38851, fmeasure = 0.34667
+
+
+cluster 16: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.32848, recall = 0.92398, fmeasure = 0.48466
+rouge2: precision = 0.175, recall = 0.49412, fmeasure = 0.25846
+rougeL: precision = 0.18919, recall = 0.53216, fmeasure = 0.27914
+
+
+cluster 17: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.28157, recall = 0.9108, fmeasure = 0.43016
+rouge2: precision = 0.18314, recall = 0.59434, fmeasure = 0.28
+rougeL: precision = 0.17562, recall = 0.56808, fmeasure = 0.26829
+
+
+cluster 18: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.75, recall = 0.75285, fmeasure = 0.75142
+rouge2: precision = 0.3346, recall = 0.33588, fmeasure = 0.33524
+rougeL: precision = 0.375, recall = 0.37643, fmeasure = 0.37571
+
+
+cluster 19: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.75661, recall = 0.80337, fmeasure = 0.77929
+rouge2: precision = 0.53191, recall = 0.56497, fmeasure = 0.54795
+rougeL: precision = 0.5291, recall = 0.5618, fmeasure = 0.54496
+
+
+cluster 20: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.83758, recall = 0.75793, fmeasure = 0.79576
+rouge2: precision = 0.58147, recall = 0.52601, fmeasure = 0.55235
+rougeL: precision = 0.5828, recall = 0.52738, fmeasure = 0.55371
+
+
+cluster 21: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.52462, recall = 0.90882, fmeasure = 0.66523
+rouge2: precision = 0.38095, recall = 0.66077, fmeasure = 0.48328
+rougeL: precision = 0.3871, recall = 0.67059, fmeasure = 0.49085
+
+
+cluster 22: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48189, recall = 0.83981, fmeasure = 0.61239
+rouge2: precision = 0.26257, recall = 0.45854, fmeasure = 0.33393
+rougeL: precision = 0.22006, recall = 0.3835, fmeasure = 0.27965
+
+
+cluster 23: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.76613, recall = 0.79498, fmeasure = 0.78029
+rouge2: precision = 0.42915, recall = 0.44538, fmeasure = 0.43711
+rougeL: precision = 0.4879, recall = 0.50628, fmeasure = 0.49692
+
+
+cluster 24: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.50452, recall = 0.92149, fmeasure = 0.65205
+rouge2: precision = 0.29252, recall = 0.53527, fmeasure = 0.3783
+rougeL: precision = 0.27602, recall = 0.50413, fmeasure = 0.35673
+
+
+cluster 25: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.69277, recall = 0.95833, fmeasure = 0.8042
+rouge2: precision = 0.58912, recall = 0.8159, fmeasure = 0.68421
+rougeL: precision = 0.62048, recall = 0.85833, fmeasure = 0.72028
+
+
+cluster 26: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.2151, recall = 0.9641, fmeasure = 0.35173
+rouge2: precision = 0.1512, recall = 0.68041, fmeasure = 0.24742
+rougeL: precision = 0.13272, recall = 0.59487, fmeasure = 0.21703
+
+
+cluster 27: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.4375, recall = 0.94839, fmeasure = 0.59878
+rouge2: precision = 0.31446, recall = 0.68285, fmeasure = 0.43061
+rougeL: precision = 0.28571, recall = 0.61935, fmeasure = 0.39104
+
+
+cluster 28: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.59675, recall = 0.88949, fmeasure = 0.71429
+rouge2: precision = 0.36051, recall = 0.53784, fmeasure = 0.43167
+rougeL: precision = 0.29476, recall = 0.43935, fmeasure = 0.35281
+
+
+cluster 29: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.47678, recall = 0.92771, fmeasure = 0.62986
+rouge2: precision = 0.32403, recall = 0.63142, fmeasure = 0.42828
+rougeL: precision = 0.31734, recall = 0.61747, fmeasure = 0.41922
+
+
+cluster 30: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.51178, recall = 0.86364, fmeasure = 0.64271
+rouge2: precision = 0.24662, recall = 0.41714, fmeasure = 0.30998
+rougeL: precision = 0.26936, recall = 0.45455, fmeasure = 0.33827
+
+
+cluster 31: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.38785, recall = 0.92737, fmeasure = 0.54695
+rouge2: precision = 0.24824, recall = 0.59551, fmeasure = 0.35041
+rougeL: precision = 0.25, recall = 0.59777, fmeasure = 0.35255
+
+
+cluster 32: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.65684, recall = 0.95413, fmeasure = 0.77805
+rouge2: precision = 0.55063, recall = 0.80061, fmeasure = 0.6525
+rougeL: precision = 0.48211, recall = 0.70031, fmeasure = 0.57107
+
+
+cluster 33: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.25689, recall = 0.95349, fmeasure = 0.40474
+rouge2: precision = 0.20452, recall = 0.76168, fmeasure = 0.32245
+rougeL: precision = 0.17293, recall = 0.64186, fmeasure = 0.27246
+
+
+cluster 34: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.51613, recall = 0.91057, fmeasure = 0.65882
+rouge2: precision = 0.44907, recall = 0.79508, fmeasure = 0.57396
+rougeL: precision = 0.41475, recall = 0.73171, fmeasure = 0.52941
+
+
+cluster 35: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.46953, recall = 0.91608, fmeasure = 0.62085
+rouge2: precision = 0.32374, recall = 0.6338, fmeasure = 0.42857
+rougeL: precision = 0.36918, recall = 0.72028, fmeasure = 0.48815
+
+
+cluster 36: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.6381, recall = 0.94366, fmeasure = 0.76136
+rouge2: precision = 0.48089, recall = 0.71226, fmeasure = 0.57414
+rougeL: precision = 0.28889, recall = 0.42723, fmeasure = 0.3447
+
+
+cluster 37: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.86253, recall = 0.70953, fmeasure = 0.77859
+rouge2: precision = 0.49459, recall = 0.40667, fmeasure = 0.44634
+rougeL: precision = 0.41779, recall = 0.34368, fmeasure = 0.37713
+
+
+cluster 38: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.5739, recall = 0.95801, fmeasure = 0.7178
+rouge2: precision = 0.47717, recall = 0.79737, fmeasure = 0.59704
+rougeL: precision = 0.36478, recall = 0.60892, fmeasure = 0.45624
+
+
+cluster 39: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.77202, recall = 0.95208, fmeasure = 0.85265
+rouge2: precision = 0.68571, recall = 0.84615, fmeasure = 0.75753
+rougeL: precision = 0.51813, recall = 0.63898, fmeasure = 0.57225
+
+
+cluster 40: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.7234, recall = 0.90152, fmeasure = 0.8027
+rouge2: precision = 0.62195, recall = 0.77567, fmeasure = 0.69036
+rougeL: precision = 0.50456, recall = 0.62879, fmeasure = 0.55987
+
+
+cluster 41: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.81616, recall = 0.90432, fmeasure = 0.85798
+rouge2: precision = 0.60894, recall = 0.67492, fmeasure = 0.64023
+rougeL: precision = 0.52646, recall = 0.58333, fmeasure = 0.55344
+
+
+cluster 42: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.43434, recall = 0.95911, fmeasure = 0.59791
+rouge2: precision = 0.3457, recall = 0.76493, fmeasure = 0.47619
+rougeL: precision = 0.25758, recall = 0.56877, fmeasure = 0.35458
+
+
+cluster 43: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.57959, recall = 0.67943, fmeasure = 0.62555
+rouge2: precision = 0.2459, recall = 0.28846, fmeasure = 0.26549
+rougeL: precision = 0.27755, recall = 0.32536, fmeasure = 0.29956
+
+
+cluster 44: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.40079, recall = 0.98551, fmeasure = 0.56983
+rouge2: precision = 0.32874, recall = 0.81068, fmeasure = 0.46779
+rougeL: precision = 0.28291, recall = 0.69565, fmeasure = 0.40223
+
+
+cluster 45: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.65954, recall = 0.89157, fmeasure = 0.7582
+rouge2: precision = 0.39286, recall = 0.5314, fmeasure = 0.45175
+rougeL: precision = 0.34403, recall = 0.46506, fmeasure = 0.39549
+
+
+cluster 46: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.62575, recall = 0.81641, fmeasure = 0.70847
+rouge2: precision = 0.33333, recall = 0.43529, fmeasure = 0.37755
+rougeL: precision = 0.27844, recall = 0.36328, fmeasure = 0.31525
+
+
+cluster 47: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.55629, recall = 0.88421, fmeasure = 0.68293
+rouge2: precision = 0.28904, recall = 0.46032, fmeasure = 0.3551
+rougeL: precision = 0.24172, recall = 0.38421, fmeasure = 0.29675
+
+
+cluster 48: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.31933, recall = 0.98276, fmeasure = 0.48203
+rouge2: precision = 0.25981, recall = 0.80115, fmeasure = 0.39238
+rougeL: precision = 0.26611, recall = 0.81897, fmeasure = 0.40169
+
+
+cluster 49: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.39237, recall = 0.79121, fmeasure = 0.52459
+rouge2: precision = 0.1612, recall = 0.32597, fmeasure = 0.21572
+rougeL: precision = 0.17439, recall = 0.35165, fmeasure = 0.23315
+
+
+cluster 50: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.5551, recall = 0.84472, fmeasure = 0.66995
+rouge2: precision = 0.31557, recall = 0.48125, fmeasure = 0.38119
+rougeL: precision = 0.37143, recall = 0.56522, fmeasure = 0.44828
+
+
+cluster 51: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53716, recall = 0.96037, fmeasure = 0.68896
+rouge2: precision = 0.42689, recall = 0.76402, fmeasure = 0.54774
+rougeL: precision = 0.39765, recall = 0.71096, fmeasure = 0.51003
+
+
+cluster 52: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.74473, recall = 0.95495, fmeasure = 0.83684
+rouge2: precision = 0.60563, recall = 0.77711, fmeasure = 0.68074
+rougeL: precision = 0.41686, recall = 0.53453, fmeasure = 0.46842
+
+
+cluster 53: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.38184, recall = 0.94079, fmeasure = 0.54321
+rouge2: precision = 0.23797, recall = 0.58746, fmeasure = 0.33873
+rougeL: precision = 0.21362, recall = 0.52632, fmeasure = 0.30389
+
+
+cluster 54: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.31345, recall = 0.96221, fmeasure = 0.47286
+rouge2: precision = 0.23981, recall = 0.73761, fmeasure = 0.36195
+rougeL: precision = 0.19981, recall = 0.61337, fmeasure = 0.30143
+
+
+cluster 55: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.41842, recall = 0.95929, fmeasure = 0.58269
+rouge2: precision = 0.32222, recall = 0.7398, fmeasure = 0.44892
+rougeL: precision = 0.22531, recall = 0.51654, fmeasure = 0.31376
+
+
+cluster 56: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.37941, recall = 0.88779, fmeasure = 0.53162
+rouge2: precision = 0.23023, recall = 0.53974, fmeasure = 0.32277
+rougeL: precision = 0.23836, recall = 0.55776, fmeasure = 0.33399
+
+
+cluster 57: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.19097, recall = 0.9877, fmeasure = 0.32005
+rouge2: precision = 0.15305, recall = 0.79424, fmeasure = 0.25665
+rougeL: precision = 0.13391, recall = 0.69262, fmeasure = 0.22444
+
+
+cluster 58: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.49926, recall = 0.94167, fmeasure = 0.65255
+rouge2: precision = 0.38348, recall = 0.72423, fmeasure = 0.50145
+rougeL: precision = 0.27246, recall = 0.51389, fmeasure = 0.35611
+
+
+cluster 59: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.45343, recall = 0.96354, fmeasure = 0.61667
+rouge2: precision = 0.38821, recall = 0.82723, fmeasure = 0.52843
+rougeL: precision = 0.375, recall = 0.79688, fmeasure = 0.51
+
+
+cluster 60: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.39277, recall = 0.96626, fmeasure = 0.55851
+rouge2: precision = 0.28964, recall = 0.71385, fmeasure = 0.41208
+rougeL: precision = 0.25312, recall = 0.6227, fmeasure = 0.35993
+
+
+cluster 61: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.21703, recall = 0.97209, fmeasure = 0.35484
+rouge2: precision = 0.1632, recall = 0.73364, fmeasure = 0.26701
+rougeL: precision = 0.16096, recall = 0.72093, fmeasure = 0.26316
+
+
+cluster 62: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.68168, recall = 0.87984, fmeasure = 0.76819
+rouge2: precision = 0.47892, recall = 0.61868, fmeasure = 0.5399
+rougeL: precision = 0.34234, recall = 0.44186, fmeasure = 0.38579
+
+
+cluster 63: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.31592, recall = 0.98705, fmeasure = 0.47864
+rouge2: precision = 0.24896, recall = 0.77922, fmeasure = 0.37736
+rougeL: precision = 0.2073, recall = 0.64767, fmeasure = 0.31407
+
+
+cluster 64: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.27035, recall = 0.92079, fmeasure = 0.41798
+rouge2: precision = 0.22999, recall = 0.78607, fmeasure = 0.35586
+rougeL: precision = 0.25581, recall = 0.87129, fmeasure = 0.39551
+
+
+cluster 65: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.27516, recall = 0.93455, fmeasure = 0.42514
+rouge2: precision = 0.21758, recall = 0.74088, fmeasure = 0.33637
+rougeL: precision = 0.18201, recall = 0.61818, fmeasure = 0.28122
+
+
+cluster 66: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.60211, recall = 0.97364, fmeasure = 0.74408
+rouge2: precision = 0.52111, recall = 0.84317, fmeasure = 0.64413
+rougeL: precision = 0.42474, recall = 0.68682, fmeasure = 0.52488
+
+
+cluster 67: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.49455, recall = 0.91275, fmeasure = 0.64151
+rouge2: precision = 0.3388, recall = 0.62626, fmeasure = 0.43972
+rougeL: precision = 0.34545, recall = 0.63758, fmeasure = 0.44811
+
+
+cluster 68: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48069, recall = 0.88612, fmeasure = 0.62328
+rouge2: precision = 0.33269, recall = 0.61429, fmeasure = 0.43162
+rougeL: precision = 0.26834, recall = 0.49466, fmeasure = 0.34793
+
+
+cluster 69: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48566, recall = 0.95423, fmeasure = 0.64371
+rouge2: precision = 0.35548, recall = 0.69965, fmeasure = 0.47143
+rougeL: precision = 0.319, recall = 0.62676, fmeasure = 0.4228
+
+
+cluster 70: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.39978, recall = 0.9685, fmeasure = 0.56595
+rouge2: precision = 0.32646, recall = 0.79211, fmeasure = 0.46237
+rougeL: precision = 0.27302, recall = 0.66142, fmeasure = 0.3865
+
+
+cluster 71: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.60985, recall = 0.95616, fmeasure = 0.74472
+rouge2: precision = 0.49067, recall = 0.76987, fmeasure = 0.59935
+rougeL: precision = 0.44874, recall = 0.70355, fmeasure = 0.54797
+
+
+cluster 72: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56574, recall = 0.87474, fmeasure = 0.6871
+rouge2: precision = 0.42553, recall = 0.65844, fmeasure = 0.51696
+rougeL: precision = 0.36653, recall = 0.56674, fmeasure = 0.44516
+
+
+cluster 73: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.83367, recall = 0.97653, fmeasure = 0.89946
+rouge2: precision = 0.75502, recall = 0.88471, fmeasure = 0.81473
+rougeL: precision = 0.69138, recall = 0.80986, fmeasure = 0.74595
+
+
+cluster 74: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.43119, recall = 0.95783, fmeasure = 0.59467
+rouge2: precision = 0.33514, recall = 0.7451, fmeasure = 0.46233
+rougeL: precision = 0.29085, recall = 0.64608, fmeasure = 0.40112
+
+
+cluster 75: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.42317, recall = 0.93963, fmeasure = 0.58354
+rouge2: precision = 0.33964, recall = 0.75526, fmeasure = 0.46857
+rougeL: precision = 0.29433, recall = 0.65354, fmeasure = 0.40587
+
+
+cluster 76: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.66344, recall = 0.94483, fmeasure = 0.77952
+rouge2: precision = 0.52913, recall = 0.75433, fmeasure = 0.62197
+rougeL: precision = 0.32446, recall = 0.46207, fmeasure = 0.38122
+
+
+cluster 77: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.50923, recall = 0.85778, fmeasure = 0.63907
+rouge2: precision = 0.25661, recall = 0.43304, fmeasure = 0.32226
+rougeL: precision = 0.26121, recall = 0.44, fmeasure = 0.32781
+
+
+cluster 78: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.55623, recall = 0.96603, fmeasure = 0.70597
+rouge2: precision = 0.47613, recall = 0.82766, fmeasure = 0.60451
+rougeL: precision = 0.27506, recall = 0.47771, fmeasure = 0.34911
+
+
+cluster 79: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.44327, recall = 0.96367, fmeasure = 0.60723
+rouge2: precision = 0.31338, recall = 0.68199, fmeasure = 0.42943
+rougeL: precision = 0.27792, recall = 0.60421, fmeasure = 0.38072
+
+
+cluster 80: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70096, recall = 0.91983, fmeasure = 0.79562
+rouge2: precision = 0.53548, recall = 0.70339, fmeasure = 0.60806
+rougeL: precision = 0.46945, recall = 0.61603, fmeasure = 0.53285
+
+
+cluster 81: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.3947, recall = 0.94403, fmeasure = 0.55666
+rouge2: precision = 0.29844, recall = 0.71536, fmeasure = 0.42117
+rougeL: precision = 0.24493, recall = 0.58582, fmeasure = 0.34543
+
+
+cluster 82: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.45714, recall = 0.81106, fmeasure = 0.58472
+rouge2: precision = 0.23177, recall = 0.41204, fmeasure = 0.29667
+rougeL: precision = 0.3039, recall = 0.53917, fmeasure = 0.3887
+
+
+cluster 83: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.4375, recall = 0.94419, fmeasure = 0.59794
+rouge2: precision = 0.36069, recall = 0.78037, fmeasure = 0.49335
+rougeL: precision = 0.28017, recall = 0.60465, fmeasure = 0.38292
+
+
+cluster 84: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56658, recall = 0.95175, fmeasure = 0.71031
+rouge2: precision = 0.4267, recall = 0.71806, fmeasure = 0.5353
+rougeL: precision = 0.3577, recall = 0.60088, fmeasure = 0.44845
+
+
+cluster 85: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.41839, recall = 0.83209, fmeasure = 0.5568
+rouge2: precision = 0.2312, recall = 0.46067, fmeasure = 0.30788
+rougeL: precision = 0.26266, recall = 0.52239, fmeasure = 0.34956
+
+
+cluster 86: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.38336, recall = 0.97248, fmeasure = 0.54994
+rouge2: precision = 0.34058, recall = 0.86636, fmeasure = 0.48895
+rougeL: precision = 0.22966, recall = 0.58257, fmeasure = 0.32944
+
+
+cluster 87: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.79839, recall = 0.50769, fmeasure = 0.62069
+rouge2: precision = 0.60163, recall = 0.38144, fmeasure = 0.46688
+rougeL: precision = 0.58871, recall = 0.37436, fmeasure = 0.45768
+
+
+cluster 88: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48509, recall = 0.90404, fmeasure = 0.63139
+rouge2: precision = 0.2962, recall = 0.5533, fmeasure = 0.38584
+rougeL: precision = 0.23577, recall = 0.43939, fmeasure = 0.30688
+
+
+cluster 89: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48678, recall = 0.89837, fmeasure = 0.63143
+rouge2: precision = 0.30464, recall = 0.56327, fmeasure = 0.39542
+rougeL: precision = 0.27313, recall = 0.50407, fmeasure = 0.35429
+
+
+cluster 90: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53608, recall = 0.9083, fmeasure = 0.67423
+rouge2: precision = 0.35659, recall = 0.60526, fmeasure = 0.44878
+rougeL: precision = 0.37371, recall = 0.63319, fmeasure = 0.47002
+
+
+cluster 91: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.43176, recall = 0.96667, fmeasure = 0.59691
+rouge2: precision = 0.31095, recall = 0.69832, fmeasure = 0.43029
+rougeL: precision = 0.22829, recall = 0.51111, fmeasure = 0.31561
+
+
+cluster 92: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.39702, recall = 0.94118, fmeasure = 0.55846
+rouge2: precision = 0.28358, recall = 0.67456, fmeasure = 0.3993
+rougeL: precision = 0.30521, recall = 0.72353, fmeasure = 0.42932
+
+
+cluster 93: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.49357, recall = 0.89302, fmeasure = 0.63576
+rouge2: precision = 0.26289, recall = 0.47664, fmeasure = 0.33887
+rougeL: precision = 0.2545, recall = 0.46047, fmeasure = 0.32781
+
+
+cluster 94: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.35542, recall = 0.97867, fmeasure = 0.52146
+rouge2: precision = 0.29802, recall = 0.82185, fmeasure = 0.43742
+rougeL: precision = 0.21859, recall = 0.6019, fmeasure = 0.32071
+
+
+cluster 95: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.38272, recall = 0.92814, fmeasure = 0.54196
+rouge2: precision = 0.25248, recall = 0.61446, fmeasure = 0.35789
+rougeL: precision = 0.2642, recall = 0.64072, fmeasure = 0.37413
+
+
+cluster 96: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.63454, recall = 0.65833, fmeasure = 0.64622
+rouge2: precision = 0.30645, recall = 0.31799, fmeasure = 0.31211
+rougeL: precision = 0.35341, recall = 0.36667, fmeasure = 0.35992
+
+
+cluster 97: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.71885, recall = 0.83955, fmeasure = 0.77453
+rouge2: precision = 0.40064, recall = 0.46816, fmeasure = 0.43178
+rougeL: precision = 0.33546, recall = 0.39179, fmeasure = 0.36145
+
+
+cluster 98: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.74275, recall = 0.78846, fmeasure = 0.76493
+rouge2: precision = 0.42909, recall = 0.4556, fmeasure = 0.44195
+rougeL: precision = 0.4529, recall = 0.48077, fmeasure = 0.46642
+
+
+cluster 99: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.52695, recall = 0.91667, fmeasure = 0.6692
+rouge2: precision = 0.324, recall = 0.56446, fmeasure = 0.41169
+rougeL: precision = 0.25349, recall = 0.44097, fmeasure = 0.32193
+
+
+cluster 100: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.67951, recall = 0.89572, fmeasure = 0.77278
+rouge2: precision = 0.44106, recall = 0.58177, fmeasure = 0.50173
+rougeL: precision = 0.3428, recall = 0.45187, fmeasure = 0.38985
+
+
+cluster 101: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.95615, recall = 0.88136, fmeasure = 0.91723
+rouge2: precision = 0.82295, recall = 0.75849, fmeasure = 0.7894
+rougeL: precision = 0.63366, recall = 0.58409, fmeasure = 0.60787
+
+
+cluster 102: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56513, recall = 0.98333, fmeasure = 0.71776
+rouge2: precision = 0.51823, recall = 0.90301, fmeasure = 0.65854
+rougeL: precision = 0.48851, recall = 0.85, fmeasure = 0.62044
+
+
+cluster 103: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.33277, recall = 0.95169, fmeasure = 0.49312
+rouge2: precision = 0.25719, recall = 0.73786, fmeasure = 0.38143
+rougeL: precision = 0.2027, recall = 0.57971, fmeasure = 0.30038
+
+
+cluster 104: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.54217, recall = 0.99022, fmeasure = 0.70069
+rouge2: precision = 0.50402, recall = 0.92157, fmeasure = 0.65165
+rougeL: precision = 0.36814, recall = 0.67237, fmeasure = 0.47578
+
+
+cluster 105: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.59615, recall = 0.92691, fmeasure = 0.72562
+rouge2: precision = 0.44754, recall = 0.69667, fmeasure = 0.54498
+rougeL: precision = 0.37179, recall = 0.57807, fmeasure = 0.45254
+
+
+cluster 106: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.55963, recall = 0.69318, fmeasure = 0.61929
+rouge2: precision = 0.35023, recall = 0.43429, fmeasure = 0.38776
+rougeL: precision = 0.39908, recall = 0.49432, fmeasure = 0.44162
+
+
+cluster 107: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.61386, recall = 0.92537, fmeasure = 0.7381
+rouge2: precision = 0.46358, recall = 0.7, fmeasure = 0.55777
+rougeL: precision = 0.46535, recall = 0.70149, fmeasure = 0.55952
+
+
+cluster 108: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.66866, recall = 0.87843, fmeasure = 0.75932
+rouge2: precision = 0.42515, recall = 0.55906, fmeasure = 0.48299
+rougeL: precision = 0.34627, recall = 0.4549, fmeasure = 0.39322
+
+
+cluster 109: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.68974, recall = 0.8865, fmeasure = 0.77584
+rouge2: precision = 0.49522, recall = 0.63692, fmeasure = 0.5572
+rougeL: precision = 0.37232, recall = 0.47853, fmeasure = 0.41879
+
+
+cluster 110: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.74275, recall = 0.82996, fmeasure = 0.78394
+rouge2: precision = 0.53091, recall = 0.5935, fmeasure = 0.56046
+rougeL: precision = 0.48188, recall = 0.53846, fmeasure = 0.5086
+
+
+cluster 111: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.625, recall = 0.76, fmeasure = 0.68592
+rouge2: precision = 0.39735, recall = 0.48387, fmeasure = 0.43636
+rougeL: precision = 0.44737, recall = 0.544, fmeasure = 0.49097
+
+
+cluster 112: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56176, recall = 0.97449, fmeasure = 0.71269
+rouge2: precision = 0.51622, recall = 0.89744, fmeasure = 0.65543
+rougeL: precision = 0.33235, recall = 0.57653, fmeasure = 0.42164
+
+
+cluster 113: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.62568, recall = 0.97863, fmeasure = 0.76333
+rouge2: precision = 0.5726, recall = 0.897, fmeasure = 0.699
+rougeL: precision = 0.36612, recall = 0.57265, fmeasure = 0.44667
+
+
+cluster 114: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.4829, recall = 0.90226, fmeasure = 0.6291
+rouge2: precision = 0.31452, recall = 0.58868, fmeasure = 0.40999
+rougeL: precision = 0.31388, recall = 0.58647, fmeasure = 0.40891
+
+
+cluster 115: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.33593, recall = 0.98052, fmeasure = 0.50041
+rouge2: precision = 0.28842, recall = 0.84365, fmeasure = 0.42988
+rougeL: precision = 0.25918, recall = 0.75649, fmeasure = 0.38608
+
+
+cluster 116: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.24309, recall = 0.90171, fmeasure = 0.38294
+rouge2: precision = 0.17993, recall = 0.66953, fmeasure = 0.28364
+rougeL: precision = 0.197, recall = 0.73077, fmeasure = 0.31034
+
+
+cluster 117: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.63107, recall = 0.88737, fmeasure = 0.73759
+rouge2: precision = 0.37226, recall = 0.52397, fmeasure = 0.43528
+rougeL: precision = 0.31553, recall = 0.44369, fmeasure = 0.36879
+
+
+cluster 118: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.33172, recall = 0.86192, fmeasure = 0.47907
+rouge2: precision = 0.21452, recall = 0.55882, fmeasure = 0.31002
+rougeL: precision = 0.18841, recall = 0.48954, fmeasure = 0.27209
+
+
+cluster 119: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.3222, recall = 0.92344, fmeasure = 0.47772
+rouge2: precision = 0.22408, recall = 0.64423, fmeasure = 0.33251
+rougeL: precision = 0.20367, recall = 0.58373, fmeasure = 0.30198
+
+
+cluster 120: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.29222, recall = 0.91284, fmeasure = 0.44271
+rouge2: precision = 0.18088, recall = 0.56682, fmeasure = 0.27425
+rougeL: precision = 0.17181, recall = 0.5367, fmeasure = 0.26029
+
+
+cluster 121: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.78107, recall = 0.86275, fmeasure = 0.81988
+rouge2: precision = 0.54167, recall = 0.59868, fmeasure = 0.56875
+rougeL: precision = 0.42604, recall = 0.47059, fmeasure = 0.4472
+
+
+cluster 122: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.49204, recall = 0.93664, fmeasure = 0.64516
+rouge2: precision = 0.35072, recall = 0.66851, fmeasure = 0.46008
+rougeL: precision = 0.24891, recall = 0.47383, fmeasure = 0.32638
+
+
+cluster 123: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.57045, recall = 0.90288, fmeasure = 0.69916
+rouge2: precision = 0.29841, recall = 0.47292, fmeasure = 0.36592
+rougeL: precision = 0.29545, recall = 0.46763, fmeasure = 0.36212
+
+
+cluster 124: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.58716, recall = 0.95522, fmeasure = 0.72727
+rouge2: precision = 0.47586, recall = 0.77528, fmeasure = 0.58974
+rougeL: precision = 0.3211, recall = 0.52239, fmeasure = 0.39773
+
+
+cluster 125: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.44681, recall = 0.95455, fmeasure = 0.6087
+rouge2: precision = 0.35082, recall = 0.75088, fmeasure = 0.47821
+rougeL: precision = 0.27496, recall = 0.58741, fmeasure = 0.37458
+
+
+cluster 126: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.52038, recall = 0.90417, fmeasure = 0.66058
+rouge2: precision = 0.32692, recall = 0.56904, fmeasure = 0.41527
+rougeL: precision = 0.2542, recall = 0.44167, fmeasure = 0.32268
+
+
+cluster 127: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.47404, recall = 0.88438, fmeasure = 0.61723
+rouge2: precision = 0.27517, recall = 0.51411, fmeasure = 0.35847
+rougeL: precision = 0.24958, recall = 0.46563, fmeasure = 0.32497
+
+
+cluster 128: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.44344, recall = 0.827, fmeasure = 0.57732
+rouge2: precision = 0.18821, recall = 0.35169, fmeasure = 0.2452
+rougeL: precision = 0.21267, recall = 0.39662, fmeasure = 0.27688
+
+
+cluster 129: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.49057, recall = 0.92857, fmeasure = 0.64198
+rouge2: precision = 0.38378, recall = 0.72821, fmeasure = 0.50265
+rougeL: precision = 0.29919, recall = 0.56633, fmeasure = 0.39153
+
+
+cluster 130: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.57096, recall = 0.83575, fmeasure = 0.67843
+rouge2: precision = 0.34437, recall = 0.50485, fmeasure = 0.40945
+rougeL: precision = 0.28383, recall = 0.41546, fmeasure = 0.33725
+
+
+cluster 131: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.59003, recall = 0.90638, fmeasure = 0.71477
+rouge2: precision = 0.38889, recall = 0.59829, fmeasure = 0.47138
+rougeL: precision = 0.31302, recall = 0.48085, fmeasure = 0.37919
+
+
+cluster 132: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.43989, recall = 0.98813, fmeasure = 0.60878
+rouge2: precision = 0.40079, recall = 0.90179, fmeasure = 0.55495
+rougeL: precision = 0.40423, recall = 0.90801, fmeasure = 0.55941
+
+
+cluster 133: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.49289, recall = 0.93413, fmeasure = 0.64529
+rouge2: precision = 0.37658, recall = 0.71471, fmeasure = 0.49326
+rougeL: precision = 0.35545, recall = 0.67365, fmeasure = 0.46536
+
+
+cluster 134: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.31434, recall = 0.97514, fmeasure = 0.47542
+rouge2: precision = 0.25936, recall = 0.80609, fmeasure = 0.39245
+rougeL: precision = 0.20036, recall = 0.62155, fmeasure = 0.30303
+
+
+cluster 135: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.34884, recall = 0.96154, fmeasure = 0.51195
+rouge2: precision = 0.29802, recall = 0.82315, fmeasure = 0.43761
+rougeL: precision = 0.27442, recall = 0.75641, fmeasure = 0.40273
+
+
+cluster 136: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.61587, recall = 0.96091, fmeasure = 0.75064
+rouge2: precision = 0.55649, recall = 0.86928, fmeasure = 0.67857
+rougeL: precision = 0.56994, recall = 0.88925, fmeasure = 0.69466
+
+
+cluster 137: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.46656, recall = 0.92857, fmeasure = 0.62106
+rouge2: precision = 0.29902, recall = 0.59609, fmeasure = 0.39826
+rougeL: precision = 0.23654, recall = 0.47078, fmeasure = 0.31488
+
+
+cluster 138: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56386, recall = 0.87864, fmeasure = 0.68691
+rouge2: precision = 0.425, recall = 0.66341, fmeasure = 0.5181
+rougeL: precision = 0.32087, recall = 0.5, fmeasure = 0.39089
+
+
+cluster 139: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.75479, recall = 0.79757, fmeasure = 0.77559
+rouge2: precision = 0.51538, recall = 0.54472, fmeasure = 0.52964
+rougeL: precision = 0.49042, recall = 0.51822, fmeasure = 0.50394
+
+
+cluster 140: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.54545, recall = 0.89219, fmeasure = 0.67701
+rouge2: precision = 0.35535, recall = 0.58209, fmeasure = 0.4413
+rougeL: precision = 0.33864, recall = 0.5539, fmeasure = 0.42031
+
+
+cluster 141: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.38567, recall = 0.98592, fmeasure = 0.55446
+rouge2: precision = 0.32828, recall = 0.84099, fmeasure = 0.47222
+rougeL: precision = 0.24518, recall = 0.62676, fmeasure = 0.35248
+
+
+cluster 142: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48819, recall = 0.90116, fmeasure = 0.6333
+rouge2: precision = 0.30284, recall = 0.55977, fmeasure = 0.39304
+rougeL: precision = 0.27559, recall = 0.50872, fmeasure = 0.35751
+
+
+cluster 143: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70062, recall = 0.78007, fmeasure = 0.73821
+rouge2: precision = 0.35604, recall = 0.39655, fmeasure = 0.3752
+rougeL: precision = 0.30247, recall = 0.33677, fmeasure = 0.3187
+
+
+cluster 144: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.32325, recall = 0.96067, fmeasure = 0.48373
+rouge2: precision = 0.23652, recall = 0.70423, fmeasure = 0.35411
+rougeL: precision = 0.17958, recall = 0.53371, fmeasure = 0.26874
+
+
+cluster 145: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.27295, recall = 0.9646, fmeasure = 0.4255
+rouge2: precision = 0.17711, recall = 0.62722, fmeasure = 0.27622
+rougeL: precision = 0.15693, recall = 0.55457, fmeasure = 0.24463
+
+
+cluster 146: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.51429, recall = 0.9, fmeasure = 0.65455
+rouge2: precision = 0.37885, recall = 0.66409, fmeasure = 0.48247
+rougeL: precision = 0.32747, recall = 0.57308, fmeasure = 0.41678
+
+
+cluster 147: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.5508, recall = 0.90616, fmeasure = 0.68514
+rouge2: precision = 0.31786, recall = 0.52353, fmeasure = 0.39556
+rougeL: precision = 0.28699, recall = 0.47214, fmeasure = 0.35698
+
+
+cluster 148: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.36582, recall = 0.9698, fmeasure = 0.53125
+rouge2: precision = 0.30925, recall = 0.82155, fmeasure = 0.44936
+rougeL: precision = 0.25823, recall = 0.68456, fmeasure = 0.375
+
+
+cluster 149: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.6375, recall = 0.89213, fmeasure = 0.74362
+rouge2: precision = 0.46347, recall = 0.64912, fmeasure = 0.5408
+rougeL: precision = 0.33333, recall = 0.46647, fmeasure = 0.38882
+
+
+cluster 150: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.48162, recall = 0.86184, fmeasure = 0.61792
+rouge2: precision = 0.2965, recall = 0.53135, fmeasure = 0.38061
+rougeL: precision = 0.24449, recall = 0.4375, fmeasure = 0.31368
+
+
+cluster 151: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.69074, recall = 0.85237, fmeasure = 0.76309
+rouge2: precision = 0.5181, recall = 0.63966, fmeasure = 0.5725
+rougeL: precision = 0.31603, recall = 0.38997, fmeasure = 0.34913
+
+
+cluster 152: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.80863, recall = 0.77922, fmeasure = 0.79365
+rouge2: precision = 0.55946, recall = 0.53906, fmeasure = 0.54907
+rougeL: precision = 0.38814, recall = 0.37403, fmeasure = 0.38095
+
+
+cluster 153: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.47217, recall = 0.99595, fmeasure = 0.64062
+rouge2: precision = 0.46346, recall = 0.97967, fmeasure = 0.62924
+rougeL: precision = 0.28215, recall = 0.59514, fmeasure = 0.38281
+
+
+cluster 154: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.6401, recall = 0.87986, fmeasure = 0.74107
+rouge2: precision = 0.4768, recall = 0.65603, fmeasure = 0.55224
+rougeL: precision = 0.50643, recall = 0.69611, fmeasure = 0.58631
+
+
+cluster 155: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.65823, recall = 0.92527, fmeasure = 0.76923
+rouge2: precision = 0.53046, recall = 0.74643, fmeasure = 0.62018
+rougeL: precision = 0.54937, recall = 0.77224, fmeasure = 0.64201
+
+
+cluster 156: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.72527, recall = 0.91667, fmeasure = 0.80982
+rouge2: precision = 0.5, recall = 0.63231, fmeasure = 0.55843
+rougeL: precision = 0.47033, recall = 0.59444, fmeasure = 0.52515
+
+
+cluster 157: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53012, recall = 0.87129, fmeasure = 0.65918
+rouge2: precision = 0.32193, recall = 0.5298, fmeasure = 0.4005
+rougeL: precision = 0.2992, recall = 0.49175, fmeasure = 0.37203
+
+
+cluster 158: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.29459, recall = 0.9697, fmeasure = 0.4519
+rouge2: precision = 0.25346, recall = 0.8365, fmeasure = 0.38904
+rougeL: precision = 0.19563, recall = 0.64394, fmeasure = 0.30009
+
+
+cluster 159: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.51811, recall = 0.96199, fmeasure = 0.67349
+rouge2: precision = 0.40221, recall = 0.7478, fmeasure = 0.52308
+rougeL: precision = 0.32913, recall = 0.61111, fmeasure = 0.42784
+
+
+cluster 160: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.42432, recall = 0.81429, fmeasure = 0.55791
+rouge2: precision = 0.23134, recall = 0.44498, fmeasure = 0.30442
+rougeL: precision = 0.21588, recall = 0.41429, fmeasure = 0.28385
+
+
+cluster 161: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.5, recall = 0.88652, fmeasure = 0.63939
+rouge2: precision = 0.39759, recall = 0.70714, fmeasure = 0.509
+rougeL: precision = 0.436, recall = 0.77305, fmeasure = 0.55754
+
+
+cluster 162: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.68868, recall = 0.90123, fmeasure = 0.78075
+rouge2: precision = 0.49716, recall = 0.65099, fmeasure = 0.56377
+rougeL: precision = 0.32075, recall = 0.41975, fmeasure = 0.36364
+
+
+cluster 163: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.7551, recall = 0.79004, fmeasure = 0.77217
+rouge2: precision = 0.54266, recall = 0.56786, fmeasure = 0.55497
+rougeL: precision = 0.45578, recall = 0.47687, fmeasure = 0.46609
+
+
+cluster 164: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.41104, recall = 0.87582, fmeasure = 0.5595
+rouge2: precision = 0.27077, recall = 0.57895, fmeasure = 0.36897
+rougeL: precision = 0.25153, recall = 0.53595, fmeasure = 0.34238
+
+
+cluster 165: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.31298, recall = 0.88172, fmeasure = 0.46197
+rouge2: precision = 0.22222, recall = 0.63043, fmeasure = 0.32861
+rougeL: precision = 0.26718, recall = 0.75269, fmeasure = 0.39437
+
+
+cluster 166: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.24255, recall = 0.86364, fmeasure = 0.37874
+rouge2: precision = 0.1194, recall = 0.42748, fmeasure = 0.18667
+rougeL: precision = 0.15745, recall = 0.56061, fmeasure = 0.24585
+
+
+cluster 167: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.4357, recall = 0.95781, fmeasure = 0.59894
+rouge2: precision = 0.31923, recall = 0.70339, fmeasure = 0.43915
+rougeL: precision = 0.26296, recall = 0.57806, fmeasure = 0.36148
+
+
+cluster 168: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.30599, recall = 0.94587, fmeasure = 0.4624
+rouge2: precision = 0.21863, recall = 0.67714, fmeasure = 0.33054
+rougeL: precision = 0.21935, recall = 0.67806, fmeasure = 0.33148
+
+
+cluster 169: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.60698, recall = 0.91901, fmeasure = 0.73109
+rouge2: precision = 0.43823, recall = 0.66431, fmeasure = 0.52809
+rougeL: precision = 0.4093, recall = 0.61972, fmeasure = 0.493
+
+
+cluster 170: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.35988, recall = 0.89354, fmeasure = 0.5131
+rouge2: precision = 0.17945, recall = 0.44656, fmeasure = 0.25602
+rougeL: precision = 0.18377, recall = 0.45627, fmeasure = 0.26201
+
+
+cluster 171: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70146, recall = 0.93855, fmeasure = 0.80287
+rouge2: precision = 0.56276, recall = 0.7535, fmeasure = 0.64431
+rougeL: precision = 0.47182, recall = 0.63128, fmeasure = 0.54002
+
+
+cluster 172: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.4388, recall = 0.88785, fmeasure = 0.58733
+rouge2: precision = 0.28704, recall = 0.58216, fmeasure = 0.3845
+rougeL: precision = 0.24018, recall = 0.48598, fmeasure = 0.32148
+
+
+cluster 173: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.67138, recall = 0.84444, fmeasure = 0.74803
+rouge2: precision = 0.47518, recall = 0.59821, fmeasure = 0.52964
+rougeL: precision = 0.54417, recall = 0.68444, fmeasure = 0.6063
+
+
+cluster 174: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.28882, recall = 0.94576, fmeasure = 0.44251
+rouge2: precision = 0.20725, recall = 0.68027, fmeasure = 0.31771
+rougeL: precision = 0.18323, recall = 0.6, fmeasure = 0.28073
+
+
+cluster 175: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70199, recall = 0.79699, fmeasure = 0.74648
+rouge2: precision = 0.44186, recall = 0.50189, fmeasure = 0.46996
+rougeL: precision = 0.42053, recall = 0.47744, fmeasure = 0.44718
+
+
+cluster 176: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.57315, recall = 0.96296, fmeasure = 0.71859
+rouge2: precision = 0.4759, recall = 0.80068, fmeasure = 0.59698
+rougeL: precision = 0.42285, recall = 0.71044, fmeasure = 0.53015
+
+
+cluster 177: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.34783, recall = 0.96842, fmeasure = 0.51182
+rouge2: precision = 0.26326, recall = 0.73545, fmeasure = 0.38773
+rougeL: precision = 0.24575, recall = 0.68421, fmeasure = 0.36161
+
+
+cluster 178: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53097, recall = 0.91185, fmeasure = 0.67114
+rouge2: precision = 0.33865, recall = 0.58232, fmeasure = 0.42825
+rougeL: precision = 0.30265, recall = 0.51976, fmeasure = 0.38255
+
+
+cluster 179: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.72696, recall = 0.93421, fmeasure = 0.81766
+rouge2: precision = 0.58904, recall = 0.75771, fmeasure = 0.66281
+rougeL: precision = 0.52218, recall = 0.67105, fmeasure = 0.58733
+
+
+cluster 180: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.64486, recall = 0.73404, fmeasure = 0.68657
+rouge2: precision = 0.33437, recall = 0.38078, fmeasure = 0.35607
+rougeL: precision = 0.30841, recall = 0.35106, fmeasure = 0.32836
+
+
+cluster 181: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.57213, recall = 0.93227, fmeasure = 0.70909
+rouge2: precision = 0.38725, recall = 0.632, fmeasure = 0.48024
+rougeL: precision = 0.34474, recall = 0.56175, fmeasure = 0.42727
+
+
+cluster 182: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.70186, recall = 0.84962, fmeasure = 0.76871
+rouge2: precision = 0.45794, recall = 0.55472, fmeasure = 0.50171
+rougeL: precision = 0.36335, recall = 0.43985, fmeasure = 0.39796
+
+
+cluster 183: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.61257, recall = 0.9249, fmeasure = 0.73701
+rouge2: precision = 0.50919, recall = 0.76984, fmeasure = 0.61295
+rougeL: precision = 0.46859, recall = 0.70751, fmeasure = 0.56378
+
+
+cluster 184: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.88732, recall = 0.71591, fmeasure = 0.79245
+rouge2: precision = 0.62264, recall = 0.5019, fmeasure = 0.55579
+rougeL: precision = 0.51174, recall = 0.41288, fmeasure = 0.45702
+
+
+cluster 185: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.54389, recall = 0.98958, fmeasure = 0.70197
+rouge2: precision = 0.44742, recall = 0.81533, fmeasure = 0.57778
+rougeL: precision = 0.37786, recall = 0.6875, fmeasure = 0.48768
+
+
+cluster 186: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.50949, recall = 0.97576, fmeasure = 0.66944
+rouge2: precision = 0.40095, recall = 0.769, fmeasure = 0.52708
+rougeL: precision = 0.37342, recall = 0.71515, fmeasure = 0.49064
+
+
+cluster 187: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.54968, recall = 0.90278, fmeasure = 0.68331
+rouge2: precision = 0.29873, recall = 0.49129, fmeasure = 0.37154
+rougeL: precision = 0.26216, recall = 0.43056, fmeasure = 0.32589
+
+
+cluster 188: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.3427, recall = 0.89802, fmeasure = 0.49609
+rouge2: precision = 0.21645, recall = 0.56818, fmeasure = 0.31348
+rougeL: precision = 0.18595, recall = 0.48725, fmeasure = 0.26917
+
+
+cluster 189: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.5073, recall = 0.94237, fmeasure = 0.65955
+rouge2: precision = 0.34004, recall = 0.63265, fmeasure = 0.44233
+rougeL: precision = 0.27372, recall = 0.50847, fmeasure = 0.35587
+
+
+cluster 190: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.2475, recall = 0.92513, fmeasure = 0.39052
+rouge2: precision = 0.14756, recall = 0.55376, fmeasure = 0.23303
+rougeL: precision = 0.14306, recall = 0.53476, fmeasure = 0.22573
+
+
+cluster 191: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.5122, recall = 0.90811, fmeasure = 0.65497
+rouge2: precision = 0.35168, recall = 0.625, fmeasure = 0.4501
+rougeL: precision = 0.32012, recall = 0.56757, fmeasure = 0.40936
+
+
+cluster 192: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.3922, recall = 0.97838, fmeasure = 0.55994
+rouge2: precision = 0.3243, recall = 0.8103, fmeasure = 0.46321
+rougeL: precision = 0.24377, recall = 0.60811, fmeasure = 0.34803
+
+
+cluster 193: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.56522, recall = 1.0, fmeasure = 0.72222
+rouge2: precision = 0.55858, recall = 0.99034, fmeasure = 0.71429
+rougeL: precision = 0.42391, recall = 0.75, fmeasure = 0.54167
+
+
+cluster 194: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.73203, recall = 0.95319, fmeasure = 0.8281
+rouge2: precision = 0.67213, recall = 0.87607, fmeasure = 0.76067
+rougeL: precision = 0.51307, recall = 0.66809, fmeasure = 0.58041
+
+
+cluster 195: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.44796, recall = 0.92093, fmeasure = 0.60274
+rouge2: precision = 0.31066, recall = 0.64019, fmeasure = 0.41832
+rougeL: precision = 0.27376, recall = 0.56279, fmeasure = 0.36834
+
+
+cluster 196: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.53097, recall = 0.91185, fmeasure = 0.67114
+rouge2: precision = 0.33865, recall = 0.58232, fmeasure = 0.42825
+rougeL: precision = 0.30265, recall = 0.51976, fmeasure = 0.38255
+
+
+cluster 197: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.72789, recall = 0.83594, fmeasure = 0.77818
+rouge2: precision = 0.4471, recall = 0.51373, fmeasure = 0.4781
+rougeL: precision = 0.38435, recall = 0.44141, fmeasure = 0.41091
+
+
+cluster 198: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.41461, recall = 0.95238, fmeasure = 0.57772
+rouge2: precision = 0.31324, recall = 0.72045, fmeasure = 0.43664
+rougeL: precision = 0.25962, recall = 0.59637, fmeasure = 0.36176
+
+
+cluster 199: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.39831, recall = 0.92157, fmeasure = 0.55621
+rouge2: precision = 0.20382, recall = 0.47291, fmeasure = 0.28487
+rougeL: precision = 0.20763, recall = 0.48039, fmeasure = 0.28994
+
+
+cluster 200: 
+---- Score between human summary and our summary: 
+rouge1: precision = 0.41235, recall = 0.94886, fmeasure = 0.57487
+rouge2: precision = 0.2995, recall = 0.69143, fmeasure = 0.41796
+rougeL: precision = 0.30864, recall = 0.71023, fmeasure = 0.43029
+
+
